@@ -52,16 +52,19 @@ Source 1: New Malaysia Ambient Air Quality Standard
 
 Department of Environment Malaysia.
 https://www.doe.gov.my/wp-content/uploads/2021/10/Air-Quality-Standard-BI.pdf
+
 Contains information about air pollutants, concentration limits, and averaging periods.
 
 Source 2: Air Pollutant Index (API) Information
 
 Department of Environment Malaysia.
 https://www.doe.gov.my/2021/10/04/english-air-pollutant-index-api/
+
 Provides information about API classifications and interpretation.
 
 Source 3: Environmental Quality (Clean Air) Regulations 2014
 
 Department of Environment Malaysia.
 https://eswis.doe.gov.my/helpDocs/No.5%20-%202014/Peraturan-peraturan_kualiti_alam_sekeliling_udara_bersih_2014_EN.pdf
+
 Optional source covering industrial air pollution regulations.
