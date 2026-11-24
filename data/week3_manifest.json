@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-24T13:20:54.942338+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "Air-Quality-Standard-BI.pdf",
+      "source_sha256": "b7453d84a6e72955787e6f4afa9eb8290f6bfedd307d805845355ddebf349e81",
+      "prepared_output": "data/processed/prepared_text.jsonl",
+      "prepared_sha256": "3acf0f72ffbb99b26c7d66b5683e5845dc4987f7e3cfdb7cfc23bd7897dc5f89",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "Not verified",
+      "access_rights": "Not verified",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}
