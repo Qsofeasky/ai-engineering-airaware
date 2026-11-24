@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-24T13:20:58.103923+00:00",
+  "data_type": "documents",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "paragraph-aware"
+  },
+  "processing_method": "paragraph-aware text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "/content/week3_project/data/raw/Air-Quality-Standard-BI.pdf",
+      "sha256": "b7453d84a6e72955787e6f4afa9eb8290f6bfedd307d805845355ddebf349e81"
+    }
+  ],
+  "outputs": [
+    "/content/week3_project/data/pipeline_v1/documents/prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "/content/week3_project/data/raw/Air-Quality-Standard-BI.pdf",
+      "output": "/content/week3_project/data/pipeline_v1/documents/prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "Air-Quality-Standard-BI.pdf",
+    "characters": 1458,
+    "pages": 1
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "9529ada0d2ca572e14faee40b27c74116acb41e0ca77aa1bab5726a14dcbbd6c"
+    ],
+    "output_bytes": [
+      1812
+    ]
+  },
+  "source_version": "Not verified",
+  "access_rights": "Not verified — check before sharing"
+}
